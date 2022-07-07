@@ -1,1 +1,4 @@
 # Income-vs-Networth
+
+
+I chose Networth and Income as my varibles because I thought they would have a strong correlation or at least that was my assumption, it seemed obvious that a high networth would be supported by a high income and viceversa. Based on the scatterplot, there is mostly a postive correlation between the two variables, however it is it is a significantly weak correlation and much smaller than expected which was surprising. There are some outliers like the highest netowrth that is paried with no income (could be retired rich person) or other high income earners that arent ranking high in networth (Bad investors, lost lots of the income they got, young so have good pay but isnt accumulated yet since they are starting their careers) these are some logical explanations for the outliers.
